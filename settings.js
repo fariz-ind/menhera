@@ -14,7 +14,7 @@ global.nomerOwner = ["6285797208971"]
 global.sig = 'https://instagram.com/jst.rizz'
 global.web = 'https://github.com/fariz-ind'
 //setbot
-global.botName = "bot sempak" 
+global.botName = "bot fun" 
 global.wm = "© bot sempak "
 global.setmenu = "button" 
 global.docType = "application/vnd.ms-excel"
